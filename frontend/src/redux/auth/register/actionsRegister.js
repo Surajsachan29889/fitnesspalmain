@@ -24,7 +24,7 @@ export const registerAPI = (creds) => (dispatch) => {
   };
 
   axios
-    .post("https://myfitnesspalclone17.herokuapp.com/auth/register", data, {
+    .post("http://localhost:5000/auth/register", data, {
       headers: headers,
     })
     .then((r) => dispatch({ type: REGISTER_SUCCESS, payload: r.data }))

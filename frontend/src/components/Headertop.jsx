@@ -12,7 +12,7 @@ export const Headertop = () => {
     <div>
       <div className={style.headcaring}>
         <img
-          src="https://bit.ly/3pONQwh"
+          src="http://bit.ly/3pONQwh"
           alt=""
           onClick={()=>navigate("/myHome")}
         />
@@ -33,12 +33,12 @@ export const Headertop = () => {
             Log Out
           </h5>
           |<h6>Follow Us: </h6>
-          <a target="_blank" href="https://www.facebook.com/myfitnesspal">
+          <a target="_blank" href="http://www.facebook.com/myfitnesspal">
             <h2 style={{ color: "blue" }}>
               <FaFacebook />
             </h2>
           </a>
-          <a target="_blank" href="https://twitter.com/myfitnesspal">
+          <a target="_blank" href="http://twitter.com/myfitnesspal">
             <h2 style={{ color: "blue" }}>
               <BsTwitter />
             </h2>

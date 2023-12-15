@@ -14,7 +14,7 @@ const Login = () => {
 
   const googleAuth = () => {
     window.open(
-      `https://myfitnesspalclone17.herokuapp.com/google/callback`,
+      `http://localhost:5000/google/callback`,
       "_self"
     );
   };

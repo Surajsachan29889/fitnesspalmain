@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rajashree27/MyFitnessPal-Clone.git"
+    "url": "git+http://github.com/rajashree27/MyFitnessPal-Clone.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rajashree27/MyFitnessPal-Clone/issues"
+    "url": "http://github.com/rajashree27/MyFitnessPal-Clone/issues"
   },
-  "homepage": "https://github.com/rajashree27/MyFitnessPal-Clone#readme"
+  "homepage": "http://github.com/rajashree27/MyFitnessPal-Clone#readme"
 }

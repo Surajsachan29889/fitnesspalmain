@@ -253,7 +253,7 @@ const Home = () => {
           >
             <Box className="sixth-section-cards">
               <Box>
-                <Image src="https://www.myfitnesspal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbreakfast-300-calories.d991cc82.png&w=1920&q=75" />
+                <Image src="http://www.myfitnesspal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbreakfast-300-calories.d991cc82.png&w=1920&q=75" />
               </Box>
               <Box m={{ base: 2, lg: 3 }} h={{ base: "40px", lg: "50px" }}>
                 <Heading as={"h5"} size={"sm"}>
@@ -268,7 +268,7 @@ const Home = () => {
             </Box>
             <Box className="sixth-section-cards">
               <Box>
-                <Image src="https://www.myfitnesspal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcheat-days.a49e92b5.jpg&w=1920&q=75" />
+                <Image src="http://www.myfitnesspal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcheat-days.a49e92b5.jpg&w=1920&q=75" />
               </Box>
               <Box m={{ base: 2, lg: 3 }} h={{ base: "40px", lg: "50px" }}>
                 <Heading as={"h5"} size={"sm"}>
@@ -283,7 +283,7 @@ const Home = () => {
             </Box>
             <Box className="sixth-section-cards">
               <Box>
-                <Image src="https://www.myfitnesspal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgetting-moving.e3e4042a.png&w=1920&q=75" />
+                <Image src="http://www.myfitnesspal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgetting-moving.e3e4042a.png&w=1920&q=75" />
               </Box>
               <Box m={{ base: 2, lg: 3 }} h={{ base: "40px", lg: "50px" }}>
                 <Heading as={"h5"} size={"sm"}>
@@ -315,7 +315,7 @@ const Home = () => {
             </Text>
           </Box>
           <Box mt={[8, 16]}>
-            <Image src="https://www.myfitnesspal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimg-apps%402x.85e549ef.png&w=1920&q=75" />
+            <Image src="http://www.myfitnesspal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimg-apps%402x.85e549ef.png&w=1920&q=75" />
           </Box>
           <Flex justifyContent={"center"} mt={16} w={{base: "80%"}} m="auto">
             <Image src={appStore} w={["150px", "200px"]} />

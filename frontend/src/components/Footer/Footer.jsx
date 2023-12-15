@@ -7,7 +7,7 @@ function Footer() {
       <div className="b2">
         <div className="b3">
           <p className="tag">
-            <a href="https://www.myfitnesspal.com/">Calorie Counter</a>
+            <a href="http://www.myfitnesspal.com/">Calorie Counter</a>
           </p>
           <p className="tag">
             <a href="">Blog</a>

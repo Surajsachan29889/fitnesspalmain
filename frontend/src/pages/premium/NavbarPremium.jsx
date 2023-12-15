@@ -11,7 +11,7 @@ const NavbarPremium = () => {
 
   const getUser = async () => {
     try {
-      const url = "https://myfitnesspalclone17.herokuapp.com/login/success";
+      const url = "http://localhost:5000/login/success";
       const { data } = await axios.get(url, { withCredentials: true });
       setUser(data.user._json);
     } catch (err) {
@@ -22,7 +22,7 @@ const NavbarPremium = () => {
   console.log(user.given_name);
 
   const logout = () => {
-    window.open(`https://myfitnesspalclone17.herokuapp.com/logout`, "_self");
+    window.open(`http://localhost:5000/logout`, "_self");
   };
 
   useEffect(() => {

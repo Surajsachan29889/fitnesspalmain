@@ -21,7 +21,7 @@ export const loginAPI = (creds) => (dispatch) => {
   };
 
   axios
-    .post("https://myfitnesspalclone17.herokuapp.com/auth/login", data, {
+    .post("http://localhost:5000/auth/login", data, {
       headers: headers,
     })
     .then((r) => dispatch({ type: LOGIN_SUCCESS, payload: r.data }))

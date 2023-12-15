@@ -28,7 +28,7 @@ const Exercise = () => {
     <Header />
 			<div>
 				<img
-					src="https://julmsejung.com/web-banner/images/horizontal.png"
+					src="http://julmsejung.com/web-banner/images/horizontal.png"
 					alt=""
 					className="add1"
 				/>
@@ -159,7 +159,7 @@ const Exercise = () => {
 						</div>
 					</div>
 					<img
-						src="https://st2.depositphotos.com/5544578/8976/v/950/depositphotos_89763874-stock-illustration-click-here-vertical-advertising-banner.jpg"
+						src="http://st2.depositphotos.com/5544578/8976/v/950/depositphotos_89763874-stock-illustration-click-here-vertical-advertising-banner.jpg"
 						alt=""
 						className="add2"
 					/>

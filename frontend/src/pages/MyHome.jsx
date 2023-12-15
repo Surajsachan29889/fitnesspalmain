@@ -476,7 +476,7 @@ const MyHome = () => {
     <Header/>
     <MainDiv>
       <AdvDiv>
-        <img src="https://bit.ly/3cfFFG2" alt="" />
+        <img src="http://bit.ly/3cfFFG2" alt="" />
       </AdvDiv>
       <BodyDiv>
         <LeftDiv>
@@ -599,7 +599,7 @@ const MyHome = () => {
         </LeftDiv>
         <RightDiv>
           <RightAdv>
-            <img src="https://bit.ly/3Ra3H4m" alt="" />
+            <img src="http://bit.ly/3Ra3H4m" alt="" />
           </RightAdv>
           <Para1>
             <div>
@@ -621,7 +621,7 @@ const MyHome = () => {
           <Para2>
             <div>
               <img
-                src="https://d34yn14tavczy0.cloudfront.net/ember-cli/fe8debda5e8d/images/widgets/ic_hellohealthy.png"
+                src="http://d34yn14tavczy0.cloudfront.net/ember-cli/fe8debda5e8d/images/widgets/ic_hellohealthy.png"
                 alt=""
               />
             </div>
@@ -657,7 +657,7 @@ const MyHome = () => {
       </BodyDiv>
       <Adv2>
         <img
-          src="https://petapixel.com/assets/uploads/2021/06/Social-Medias-Impact-on-Landscape-and-Nature-Photography.jpg"
+          src="http://petapixel.com/assets/uploads/2021/06/Social-Medias-Impact-on-Landscape-and-Nature-Photography.jpg"
           alt=""
         />
       </Adv2>

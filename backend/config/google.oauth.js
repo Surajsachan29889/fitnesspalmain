@@ -9,7 +9,7 @@ passport.use(
     {
       clientID: process.env.GOOGLE_CLIENT_ID,
       clientSecret: process.env.GOOGLE_CLIENT_SECRET,
-      callbackURL: "https://smooth-flavor-1645.herokuapp.com/google/callback",
+      callbackURL: "http://localhost:5000/google/callback",
       scope: ["profile", "email"],
       passReqToCallback: true,
     },

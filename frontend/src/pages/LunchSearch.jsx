@@ -17,7 +17,7 @@ const LunchSearch = () => {
 
   const handleSearch = () => {
     axios
-      .get(`https://myfitnesspalclone17.herokuapp.com/foods?q=${query}`)
+      .get(`http://localhost:5000/foods?q=${query}`)
       .then((res) => setFoods(res.data))
       .catch((err) => console.log(err));
   };
